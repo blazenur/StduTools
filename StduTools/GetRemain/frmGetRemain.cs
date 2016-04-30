@@ -135,6 +135,7 @@ namespace StduTools
             {
                 //首次启动
                 //提示是否添加开机启动项
+                RegContral.SetValue("AutoUpdate", "1");
                 if (MessageBox.Show("是否添加到开机启动？(稍后可取消)", "提示", MessageBoxButtons.YesNo) == System.Windows.Forms.DialogResult.Yes)
                 {
                     RegContral.SetValue("AutoRun", "1");
@@ -143,6 +144,7 @@ namespace StduTools
                     RegistryKey key = Registry.CurrentUser;
                     RegistryKey SubKey = key.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion", true).CreateSubKey("Run");
                     SubKey.SetValue("StduTools", Application.ExecutablePath + " -e");
+                    
                 }
 
             }

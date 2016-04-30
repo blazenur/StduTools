@@ -8,3 +8,4 @@ E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.Properties.Resources.reso
 E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.csproj.GenerateResource.Cache
 E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.exe
 E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.pdb
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.csprojResolveAssemblyReference.cache
