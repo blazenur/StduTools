@@ -1,0 +1,11 @@
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.csprojResolveAssemblyReference.cache
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.frmMain.resources
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.frmAbout.resources
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.frmGetRemain.resources
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.frmNotice.resources
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.Properties.Resources.resources
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.csproj.GenerateResource.Cache
+E:\WorkSpace\StduTools\StduTools\bin\Debug\StduTools.exe
+E:\WorkSpace\StduTools\StduTools\bin\Debug\StduTools.pdb
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.exe
+E:\WorkSpace\StduTools\StduTools\obj\Debug\StduTools.pdb

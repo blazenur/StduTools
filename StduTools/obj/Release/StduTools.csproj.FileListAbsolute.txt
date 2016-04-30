@@ -1,0 +1,10 @@
+E:\WorkSpace\StduTools\StduTools\bin\Release\StduTools.exe
+E:\WorkSpace\StduTools\StduTools\bin\Release\StduTools.pdb
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.frmMain.resources
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.frmAbout.resources
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.frmGetRemain.resources
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.frmNotice.resources
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.Properties.Resources.resources
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.csproj.GenerateResource.Cache
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.exe
+E:\WorkSpace\StduTools\StduTools\obj\Release\StduTools.pdb
